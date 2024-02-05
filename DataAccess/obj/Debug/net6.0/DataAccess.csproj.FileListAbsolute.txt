@@ -1,0 +1,14 @@
+D:\WitcherMID\Withcer\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\WitcherMID\Withcer\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\WitcherMID\Withcer\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\WitcherMID\Withcer\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\WitcherMID\Withcer\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
